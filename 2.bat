@@ -1,1 +1,2 @@
-ipconfig /all
+ipconfig 
+this is a test
